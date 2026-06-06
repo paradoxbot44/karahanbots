@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "prefix": "!",
+  "guildId": "YOUR_GUILD_ID",
+  "voiceChannelId": "YOUR_VOICE_CHANNEL_ID",
+  "staffRoleId": "YOUR_STAFF_ROLE_ID"
+}
